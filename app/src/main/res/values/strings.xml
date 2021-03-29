@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Latihan 1 Biodata Diri</string>
+    <string name="nama_value_value">Nama : Tegar Lucky Oakley</string>
+    <string name="nim_kelas">NIM/Kelas : 10118066/IF2</string>
+    <string name="jk">Jenis Kelamin : Pria</string>
+    <string name="ttl">Tempat, Tanggal Lahir : Bandung, 21 Desember 2000</string>
+    <string name="alamat">Alamat : Jl. Jatiluhur 6 no. D244</string>
+    <string name="goldar">Golongan Darah : B</string>
+    <string name="makanan">Makanan Favourite : Japanese Food</string>
+    <string name="minum">Minuman Favourite : Smoothies</string>
+    <string name="hobi">Hobi : Fotografi, Videografi, Editing, Reading</string>
+    <string name="lagu">Lagu Favourite : Chill Lofi</string>
+    <string name="film">Film Favourite : The Imitation Game</string>
+    <string name="kerja">Pekerjaan Idaman : Photographer</string>
+    <string name="foto">foto</string>
+</resources>
